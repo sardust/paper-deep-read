@@ -1,5 +1,7 @@
 # paper-deep-read
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > 按「逆着作者动机拆论文」的三层分析法精读学术论文，输出可追溯的证据链与边界判断，并可一键生成含思维导图、论文原图引用的 Word 精读报告。
 
 一个给 AI Agent 用的**论文精读 Skill**。核心理念一句话：
