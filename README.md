@@ -190,4 +190,6 @@ paper-deep-read/
 
 ## 许可
 
-MIT
+本项目以 [MIT License](LICENSE) 开放源代码。
+
+Copyright (c) 2026 paper-deep-read contributors
